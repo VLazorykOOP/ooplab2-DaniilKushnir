@@ -1,0 +1,4 @@
+﻿  task2-decrypt.cpp
+C:\Users\dkush\source\repos\lab_2\task2-decrypt\task2-decrypt.cpp(70,21): warning C4101: 'l': unreferenced local variable
+C:\Users\dkush\source\repos\lab_2\task2-decrypt\task2-decrypt.cpp(68,10): warning C4101: 'text': unreferenced local variable
+  task2-decrypt.vcxproj -> C:\Users\dkush\source\repos\lab_2\task2-decrypt\x64\Debug\task2-decrypt.exe

@@ -1,0 +1,6 @@
+﻿  lab3.cpp
+C:\Users\dkush\source\repos\lab3\lab3.cpp(36,18): warning C4101: 'y': unreferenced local variable
+C:\Users\dkush\source\repos\lab3\lab3.cpp(82,27): warning C4101: 'j': unreferenced local variable
+C:\Users\dkush\source\repos\lab3\lab3.cpp(82,24): warning C4101: 'i': unreferenced local variable
+C:\Users\dkush\source\repos\lab3\lab3.cpp(82,21): warning C4101: 'l': unreferenced local variable
+  lab3.vcxproj -> C:\Users\dkush\source\repos\lab3\x64\Debug\lab3.exe
